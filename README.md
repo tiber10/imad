@@ -15,4 +15,7 @@ I'm a PhD Student in Artificial Intelligence and Robotics at Sapienza University
 
 [![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiber10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiber10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiber10&theme=dark)](https://git.io/streak-stats)
