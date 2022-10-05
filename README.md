@@ -9,4 +9,4 @@ I'm a PhD Student in Artificial Intelligence and Robotics at Sapienza University
 * Problem Setter 
 
 ## Languages
-![](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming languages/python.svg
+![](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming languages/python.svg)
