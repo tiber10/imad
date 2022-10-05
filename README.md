@@ -1,10 +1,9 @@
-# Hello everyone! I'm Imad Eddine
+# Hi there! I'm Imad Eddine
 
 ##
-I'm a PhD Student in Artificial Intelligence and Roborics at Sapienza University of Roma.
+I'm a PhD Student in Artificial Intelligence and Robotics at Sapienza University of Roma.
 
 ## 
-* Deep Learning Engineer
-* Robotics Engineer
+* Deep Learning & Robotics Engineer
 * Competitive Programmer
 * Problem Setter 
